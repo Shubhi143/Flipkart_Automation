@@ -55,8 +55,6 @@ test {
 
 //run.dependsOn startScript
 
-
-
 //test.dependsOn startScript
 
 mainClassName = 'demo.App'
